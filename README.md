@@ -1,1 +1,1 @@
-The purpose of this Java project is to build an aplication that can receive your income, expenses and make you see your balance, monthly reports and spending categories. It is a expandable project and, for now, is on development phase.
+The purpose of this Java project is to build an aplication that can receive your income, expenses and make you see your balance, monthly reports and spending categories. It is a expandable project and, for now, is in development phase.
